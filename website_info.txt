@@ -1,0 +1,138 @@
+# TechNova Solutions - Comprehensive Company Profile
+
+## Company Overview
+TechNova Solutions is a cutting-edge IT services and consulting firm specializing in digital transformation, cloud computing, and innovative technology solutions.
+
+## Core Service Offerings
+
+### 1. Cloud Solutions
+- Cloud Migration Services
+- Multi-cloud Management
+- Hybrid Cloud Architecture
+- Cloud Security Optimization
+- Cloud Cost Management
+
+### 2. Artificial Intelligence & Machine Learning
+- AI Strategy Consulting
+- Machine Learning Model Development
+- Natural Language Processing
+- Computer Vision Solutions
+- AI-Powered Business Intelligence
+
+### 3. Cybersecurity Services
+- Network Security Assessment
+- Penetration Testing
+- Security Information and Event Management (SIEM)
+- Threat Detection and Response
+- Compliance and Risk Management
+
+### 4. Software Development
+- Custom Enterprise Software Development
+- Mobile Application Development
+- Web Application Solutions
+- Legacy System Modernization
+- DevOps and Agile Consulting
+
+### 5. Data Analytics
+- Big Data Analytics
+- Predictive Analytics
+- Data Warehousing
+- Business Intelligence Dashboards
+- Data Visualization Solutions
+
+## Current Open Positions
+
+### Technical Roles
+1. Senior Cloud Architect
+   - Location: Bangalore, India
+   - Experience: 8-12 years
+   - Key Responsibilities:
+     * Design and implement complex cloud infrastructure
+     * Lead cloud migration projects
+     * Develop cloud strategy for enterprise clients
+
+2. AI/ML Engineer
+   - Location: Hyderabad, India
+   - Experience: 5-8 years
+   - Key Responsibilities:
+     * Develop machine learning models
+     * Implement AI solutions for business problems
+     * Research and implement cutting-edge AI technologies
+
+3. Cybersecurity Specialist
+   - Location: Pune, India
+   - Experience: 6-10 years
+   - Key Responsibilities:
+     * Conduct security assessments
+     * Develop security protocols
+     * Implement threat detection systems
+
+4. Full Stack Developer
+   - Location: Chennai, India
+   - Experience: 4-7 years
+   - Key Responsibilities:
+     * Develop enterprise-level web applications
+     * Work on full-stack development projects
+     * Implement modern software architectures
+
+### Non-Technical Roles
+1. Sales Manager - Cloud Solutions
+2. Technical Writing Specialist
+3. Project Coordinator
+4. Business Development Executive
+
+## Frequently Asked Questions (FAQs)
+
+### Company and Services Inquiries
+Q: What industries does TechNova Solutions serve?
+A: We provide solutions across various sectors including healthcare, finance, manufacturing, retail, and telecommunications.
+
+Q: How do you ensure data privacy and security?
+A: We follow strict international security standards, including ISO 27001, GDPR, and HIPAA compliance.
+
+Q: Do you offer consultation services?
+A: Yes, we provide free initial consultation for potential clients to understand their technological needs.
+
+### Recruitment and Career Inquiries
+Q: What is the interview process like?
+A: Our recruitment process typically involves:
+1. Initial screening call
+2. Technical assessment
+3. Technical interview
+4. HR interview
+5. Final leadership interview
+
+Q: Do you offer internship programs?
+A: Yes, we have comprehensive internship programs for engineering and business students, with potential for full-time employment.
+
+Q: What are the growth opportunities at TechNova?
+A: We offer:
+- Regular skill development workshops
+- Sponsored certification programs
+- Clear career progression paths
+- Annual performance-based promotions
+
+### Technical Support Inquiries
+Q: How quickly do you respond to support requests?
+A: We guarantee:
+- Critical issues: Within 1 hour
+- High-priority issues: Within 4 hours
+- Standard issues: Within 24 hours
+
+Q: Do you provide 24/7 support?
+A: Yes, we offer round-the-clock support for our enterprise clients.
+
+## Contact Information
+- Website: www.technovasolutions.com
+- Email: info@technovasolutions.com
+- Phone: +91-22-XXXX-XXXX
+- Address: TechNova Towers, Cyber City, Bangalore, India
+
+## Application Process
+1. Visit our careers page
+2. Browse open positions
+3. Submit your resume
+4. Complete online assessment
+5. Await screening call
+
+**Note:** All applications are processed confidentially and with equal opportunity principles.
