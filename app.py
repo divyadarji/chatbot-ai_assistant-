@@ -6,7 +6,7 @@ from time import time
 app = Flask(__name__)
 
 # Configure Gemini API
-GOOGLE_API_KEY = "AIzaSyAEBgrMIe8iT1K9RnodUgOqyq3sm1KVujA"  # Replace with your actual Gemini API key
+GOOGLE_API_KEY = "Your GEMINI API KEY"  # Replace with your actual Gemini API key
 genai.configure(api_key=GOOGLE_API_KEY)
 model = genai.GenerativeModel("gemini-1.5-flash")
 
